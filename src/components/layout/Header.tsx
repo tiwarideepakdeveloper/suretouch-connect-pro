@@ -27,9 +27,9 @@ export function Header() {
               <Phone className="w-4 h-4" />
               +1 (570) 560-6921
             </a>
-            <a href="mailto:connect@suretouchleads.net" className="flex items-center gap-2 hover:text-accent transition-colors">
+            <a href="mailto:connect@dialersupport.net" className="flex items-center gap-2 hover:text-accent transition-colors">
               <Mail className="w-4 h-4" />
-              connect@suretouchleads.net
+              connect@dialersupport.net
             </a>
           </div>
           <div className="text-primary-foreground/80">
@@ -45,10 +45,10 @@ export function Header() {
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2">
               <div className="w-10 h-10 rounded-lg gradient-hero flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-xl font-display">S</span>
+                <span className="text-primary-foreground font-bold text-xl font-display">D</span>
               </div>
               <span className="font-display font-bold text-xl text-foreground">
-                Sure<span className="text-primary">Touch</span><span className="text-accent">Leads</span>
+                Dialer<span className="text-primary">Support</span>
               </span>
             </Link>
 
@@ -123,9 +123,9 @@ export function Header() {
                   <Phone className="w-4 h-4" />
                   +1 (570) 560-6921
                 </a>
-                <a href="mailto:connect@suretouchleads.net" className="flex items-center gap-2">
+                <a href="mailto:connect@dialersupport.net" className="flex items-center gap-2">
                   <Mail className="w-4 h-4" />
-                  connect@suretouchleads.net
+                  connect@dialersupport.net
                 </a>
               </div>
             </div>

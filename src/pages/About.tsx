@@ -36,7 +36,7 @@ const values = [
 ];
 
 const milestones = [
-  { year: "Founded", title: "Company Established", description: "SureTouchLeads was founded with a vision to transform business communication." },
+  { year: "Founded", title: "Company Established", description: "Dialer Support was founded with a vision to transform business communication." },
   { year: "Growth", title: "Rapid Expansion", description: "Expanded our team and capabilities to serve clients across multiple industries." },
   { year: "Innovation", title: "Technology Integration", description: "Implemented VICIdial and advanced CRM integrations for enhanced performance." },
   { year: "Today", title: "Industry Leader", description: "Recognized as a trusted partner for performance-driven communication services." },
@@ -57,7 +57,7 @@ export default function About() {
               <span className="text-accent">Meets Precision</span>
             </h1>
             <p className="text-lg text-primary-foreground/80">
-              SureTouchLeads is a leading force in the call center industry, delivering innovative and tailored solutions for businesses seeking excellence in customer communication.
+              Dialer Support is a leading force in the call center industry, delivering innovative and tailored solutions for businesses seeking excellence in customer communication.
             </p>
           </div>
         </div>
@@ -75,13 +75,13 @@ export default function About() {
                 Redefining Industry Benchmarks
               </h2>
               <p className="text-muted-foreground text-lg mb-6">
-                Welcome to SureTouchLeads, where communication meets precision. As a leading force in the call center industry, we deliver innovative and tailored solutions for businesses seeking excellence in customer service, lead generation, and sales support.
+                Welcome to Dialer Support, where communication meets precision. As a leading force in the call center industry, we deliver innovative and tailored solutions for businesses seeking excellence in customer service, lead generation, and sales support.
               </p>
               <p className="text-muted-foreground mb-6">
                 Our commitment goes beyond interactions — we architect seamless communication experiences. Using advanced technology and customer-first strategies, we empower businesses to connect, convert, and grow.
               </p>
               <p className="text-muted-foreground mb-8">
-                We have built SureTouchLeads to redefine industry benchmarks and become a trusted partner in performance-driven communication services.
+                We have built Dialer Support to redefine industry benchmarks and become a trusted partner in performance-driven communication services.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button variant="default" asChild>
@@ -232,7 +232,7 @@ export default function About() {
               Partner With Us Today
             </h2>
             <p className="text-lg text-primary-foreground/80 mb-8">
-              Experience the SureTouchLeads difference. Let us help you transform your customer communication.
+              Experience the Dialer Support difference. Let us help you transform your customer communication.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button variant="hero" size="xl" asChild>

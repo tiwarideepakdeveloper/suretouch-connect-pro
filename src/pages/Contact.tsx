@@ -133,8 +133,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Email</h3>
-                    <a href="mailto:connect@suretouchleads.net" className="text-primary hover:underline">
-                      connect@suretouchleads.net
+                    <a href="mailto:connect@dialersupport.net" className="text-primary hover:underline">
+                      connect@dialersupport.net
                     </a>
                   </div>
                 </div>
