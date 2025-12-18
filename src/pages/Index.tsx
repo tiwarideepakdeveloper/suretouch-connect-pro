@@ -68,13 +68,13 @@ const testimonials = [
   {
     name: "Michael Roberts",
     role: "CEO, TechStart Inc",
-    content: "SureTouchLeads transformed our lead generation process. Their team consistently delivers high-quality prospects that convert.",
+    content: "Dialer Support transformed our lead generation process. Their team consistently delivers high-quality prospects that convert.",
     rating: 5,
   },
   {
     name: "Sarah Chen",
     role: "Marketing Director, GrowthCo",
-    content: "The professionalism and dedication of SureTouchLeads has made them an invaluable partner for our outbound campaigns.",
+    content: "The professionalism and dedication of Dialer Support has made them an invaluable partner for our outbound campaigns.",
     rating: 5,
   },
   {
@@ -279,7 +279,7 @@ export default function Index() {
               What Our Clients Say
             </h2>
             <p className="text-muted-foreground text-lg">
-              Hear from businesses that have transformed their communication with SureTouchLeads.
+              Hear from businesses that have transformed their communication with Dialer Support.
             </p>
           </div>
           
@@ -326,7 +326,7 @@ export default function Index() {
               Ready to Elevate Your Customer Communication?
             </h2>
             <p className="text-lg text-primary-foreground/80 mb-8">
-              Join hundreds of businesses that trust SureTouchLeads for their call center needs.
+              Join hundreds of businesses that trust Dialer Support for their call center needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button variant="hero" size="xl" asChild>
