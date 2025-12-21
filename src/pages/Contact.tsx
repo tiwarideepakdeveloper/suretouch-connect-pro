@@ -121,8 +121,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Phone</h3>
-                    <a href="tel:+15705606921" className="text-primary hover:underline">
-                      +1 (570) 560-6921
+                    <a href="tel:+917079745241" className="text-primary hover:underline">
+                      +91 70797 45241
                     </a>
                   </div>
                 </div>
@@ -133,8 +133,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Email</h3>
-                    <a href="mailto:connect@dialersupport.net" className="text-primary hover:underline">
-                      connect@dialersupport.net
+                    <a href="mailto:manager@dialersupport.com" className="text-primary hover:underline">
+                      manager@dialersupport.com
                     </a>
                   </div>
                 </div>
@@ -145,7 +145,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Location</h3>
-                    <p className="text-muted-foreground">United States</p>
+                    <p className="text-muted-foreground">Fazalgunj, Sasaram (Rohtas) Bihar, India 821115</p>
                   </div>
                 </div>
                 
