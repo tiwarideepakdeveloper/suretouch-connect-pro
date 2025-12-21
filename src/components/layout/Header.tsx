@@ -44,9 +44,11 @@ export function Header() {
           <div className="flex h-16 items-center justify-between">
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2">
-              <div className="w-10 h-10 rounded-lg gradient-hero flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-xl font-display">D</span>
-              </div>
+              <img 
+                src="/logo.jpeg" 
+                alt="Dialer Support Logo" 
+                className="w-10 h-10 object-contain"
+              />
               <span className="font-display font-bold text-xl text-foreground">
                 Dialer<span className="text-primary">Support</span>
               </span>
